@@ -1,0 +1,258 @@
+# Design rationale - v3
+
+## Aanleiding
+
+Vanuit een aflevering van Radar ben ik geïnteresseerd geraakt in hoe geldcreatie werkt. Degene die de een geldmachine heeft kan heel rijk kan worden. En daarnaast een enorme invloed hebben op de economie en daarmee tevens op sociale belangen. Hoewel je vanuit school wordt geleerd hoe de politiek werkt en andere onderdelen in onze samenleving is er geen aandacht voor dit onderwerp. Het wordt niet van mensen gezien als ‘algemene kennis’ om te begrijpen hoe de geldcreatie geschiedt.&#x20;
+
+Naar mijn mening kan er pas een eerlijk oordeel geveld worden over bepaalde zaken als mensen er kennis over hebben. Een eerlijk oordeel is een mening en zodra veel mensen een mening hebben kan er een verandering plaatsvinden. Om deze reden vind ik het cruciaal dat er meer kennis komt over dit onderwerp.&#x20;
+
+Via mijn stagebegeleidster kennis gemaakt met Follow the money. Zij zijn een onafhankelijk journalistieke organisatie die al veel over dit onderwerp geschreven hebben. Vanuit de interesse in geldcreatie ben ik steeds meer geïnteresseerd geraakt in de andere onderwerpen waar Follow the Money zich mee bezig houden.
+
+## Inleiding
+
+Follow the money (FTM) is een platform die online kritische artikelen publiceert. Zij slagen erin om met behulp van onderzoek dubieuze praktijken aan de man te brengen. Er worden in de onderzoeksjournalisiek bij FTM vaak lange taaie artikelen geschreven die eventueel al enige kennis van het onderwerp vereisen. Dit resulteert in een relatief klein trouw lezerspubliek. Om eveneens jongere lezers aan te spreken of lezers te betrekken bij onderwerpen waar ze minder kennis van hebben, wordt er vanuit het afstudeerproject gezocht naar andere manieren van het communiceren naast de gebruikelijke manieren. Het project heeft geresulteerd in een blauwdruk die bruikbaar is voor verschillende artikelen. Hieronder is de design challenge te lezen:
+
+**Hoe kan de website van Follow the Money worden aangevuld met webpagina's en componenten op webpagina's zodat de thema's van FTM meer worden begrepen door een publiek van 20-45 jaar?**
+
+Met thema's wordt bedoelt de onderwerpen die aanbod komen binnen de website van FTM. De thema's zijn te vinden in de vorm van dossiers en artikelen. Het begrip kan gemeten worden door middel van testen met de doelgroep. Door een nulmeting te doen met de huidige website en vervolgens te testen met het product aan de website toegevoegd, kan een vergelijking worden gemaakt. Er kan door middel van vragen vergeleken worden in welke mate de testers de content begrijpen. Aan de hand van die vergelijking kan bepaald worden of de hoofdvraag is beantwoord.&#x20;
+
+Wanneer de content op de website beter te begrijpen is voor een bredere doelgroep, gaat de kwaliteit omhoog. Op het moment dat de kwaliteit verbeterd wordt de website aantrekkelijker voor die bredere doelgroep.
+
+## Nulmeting
+
+Om een beeld te krijgen van de aanvulling die nodig is moet eerst begrepen worden hoe de huidige website van FTM is opgebouwd. Hiervoor is een flowchart gemaakt van de huidige website.
+
+![](<../.gitbook/assets/Flow chart - Huidige website.png>)
+
+Op de flowchart is omcirkelt waar dit project zich op zal richten. Van deze pagina zijn hieronder screenshots te zien.
+
+![Huidige webpagina's FTM](<../.gitbook/assets/Huidige website van FTM.png>)
+
+De pagina's waar ik me in mijn project op richt zijn de dossierpagina de, de dossierdetailpagina en de artikelpagina. Vanuit de hoofdpagina kan doorgeklikt worden naar de dossierpagina. Op deze pagina staan alle dossiers van Follow the money. Een dossier bestaat uit artikelen van een thema. Bijvoorbeeld het dossier: "Van wie is ons geld?" gaat over geldcreatie en over de keuzes binnen het monetaire beleid. Op de dossierdetailpagina staan alle artikelen op chronologische volgorde van publicatie. Het artikel is opgebouwd uit voornamelijk tekst kan andere componenten bevatten zoals: quotes, een samenvatting in punten, blokken met uitgelegd vakjargon, illustraties en grafieken.
+
+## Focus verschuiving
+
+Zoals in de intro te lezen is, is het project begonnen vanuit een interesse voor geldcreatie. Het onderzoek en project is daarom gestart vanuit deze hoek. Dit is terug te zijn in de schematische weergave van het project verloop. Naarmate het project vorderde is duidelijk geworden dat het zwaarte punt van het project niet moet liggen op een thema maar op het achterliggende doel. Namelijk het begrijpelijker maken van onderzoeksjournalistiek voor een bredere doelgroep. Hierdoor is het project breder geworden maar het doel concreter.
+
+## Proces
+
+Aan de blauwdruk is een proces van onderzoek, ideegeneratie en conceptualisatie aan vooraf gegaan. Hieronder zijn de belangrijkste bevindingen terug te lezen. Op de afbeelding is een schematische weergave van het projectverloop te zien.&#x20;
+
+![](<../.gitbook/assets/Projectverloop (8).png>)
+
+### Onderzoek&#x20;
+
+Vooral uit het onderzoek: "Deskresearch - Online communiceren & leren" zijn bevindingen gekomen die de producten hebben beïnvloed.&#x20;
+
+#### Bevindingen
+
+* Het is belangrijk dat een website als mooi wordt ervaren
+* Grafische elementen helpen vaak bij een positieve associatie en meer begrip van een webpagina.&#x20;
+* Een heldere opbouw van een pagina leidt tot een beter begrip van de stof
+* Sinds de komst van het internet zijn er meer vormen van communiceren en interactie mogelijk die een aanvulling kunnen geven
+* Om een complex probleem begrijpelijk te maken kunnen meerdere manieren van communiceren helpen om op verschillende manieren de gebruiker te informeren&#x20;
+* Mogelijkheid tot interactie met het onderwerp leidt tot meer begrip van de gebruiker&#x20;
+* Makkelijk te gebruiken design van digitale websites is speelt een belangrijke rol in de ervaring&#x20;
+* Tot slot wordt er waarde aan gehecht om zelf het tempo te kunnen bepalen en als het in kleine stukjes is opgehakt
+
+### Persona
+
+Met behulp van enquetes van de doelgroep en interviews is een beeld verkregen op welke manier de doelgroep omgaat met nieuwsverwerving, complexe onderwerpen begrijpen en welke communicatievormen hem om dit te doen. Hieruit is een gemeenschappelijke deler gezocht en een persona geabstraheerd.&#x20;
+
+![Persona](<../.gitbook/assets/Persona - v2 (2).png>)
+
+De persona is geïnteresseerd in nieuws en wil graag op de hoogte blijven. Vaak gaat dit op een vluchtige manier soms neemt hij echt de tijd om in een onderwerp te duiken. Het type media kan erg verschillen dit is heel erg afhankelijk van het onderwerp. Wat verder duidelijk werd is dat graag zelf het tempo bepaalt moet kunnen worden. Bij een overzichtelijke tekst kan goed gescand en alleen gefocust op relevante onderdelen worden terwijl bij een video de hele video gekeken moet worden. Om kritisch te blijven kijkt hij graag naar verschillende nieuwswebsites.&#x20;
+
+#### Bevindingen
+
+* Soms wordt de tijd genomen voor nieuws en soms gaat het tussendoor
+* Eigen tempo is belangrijk
+* Goed scanbaar is relevant
+* Type media wordt bepaald door de content
+
+### Customer journey
+
+Om een beeld te krijgen van de verbeterpunten op de website is een participant observation uitgevoerd. Deze resultaten zijn samengevat in de customer journey.
+
+![](<../.gitbook/assets/Customer journey - Overzicht (2).png>)
+
+Bij de customer journey kwam vooral naar voren dat mensen nog het idee hadden dat ze te weinig kennis hadden van een onderwerp en er daarom niet meer over wilde lezen. Niet alleen het onderwerp kon afschrikkend werken ook de vormgeving van de dossierdetailpagina. Door de artikelen op volgorde van publicatiedatum te sorteren is niet duidelijk welk artikel als inleiding gelezen kan worden. Tot slot werden de artikelen soms als ingewikkeld ervaren.
+
+#### Bevindingen
+
+* Er is geen duidelijke inleiding tot een onderwerp
+* De huidige volgorde op publicatiedatum is relevant voor iemand die 'meeleest' met het onderwerp maar minder voor een 'leek'
+* Artikelen zijn niet altijd makkelijk te begrijpen
+
+## Drie concepten
+
+De hoofdvraag heeft tot drie verschillende deelproducten geleid. Een dossierintropagina voor het "Van wie is ons geld?" dossier genaamd: "Dossierintro", een aantrekking tot het dossier "Dossier China" genaamd: "China op bezoek bij jou" en een artikel verduidelijking voor een artikel over gezinshuizen genaamd: "Gezinshuisrekentool".
+
+### Dossierintro
+
+Het dossierintro als een webpagina die een inleiding geeft van het onderwerp van het dossier.&#x20;
+
+![Dossierintro - Inleidingspagina](<../.gitbook/assets/Dossier intro - start (1).png>)
+
+![Dossierintro - Contentpagina](<../.gitbook/assets/Dossier intro - inhoud (2).png>)
+
+De pagina bevat een heldere opbouw: Hoe werkt het?, Waarom schrijft FTM erover?, Wat zijn de problemen? en Hoe kan het anders?. Deze opbouw is terug te vinden in een sitenavigatie die meescrolt met de gebruiker. Daarnaast wordt er in de tekst artikelen verwezen die aan de basis van het onderwerp staan en passen alinea's waar ze naast staan.&#x20;
+
+### China op bezoek bij jou
+
+China op bezoek bij jou is een quiz. Bij deze quiz beantwoord je vragen over jezelf en vervolgens komen er verschillende connecties uit die jij hebt met China. Het doel van de quiz is dat de relevantie van het dossier wordt benadrukt. Hieronder is de startpagina, een vragenpagina en de resultatenpagina te zien.
+
+![China op bezoek bij jou - Startpagina](<../.gitbook/assets/Quiz - China start – 3 (1).png>)
+
+
+
+![China op bezoek bij jou - Vragenpagina](<../.gitbook/assets/Quiz - China vragen - 1.png>)
+
+
+
+![China op bezoek bij jou - Resultatenpagina](<../.gitbook/assets/Quiz - Resultaten (4).png>)
+
+Na het beantwoorden van de vragen krijg je een resultatenpagina te zien. Op deze pagina kan je meer informatie lezen over de onderwerpen van de vragen. Daarnaast staat bij sommige onderwerpen doorgelinkt naar artikelen van het dossier over China.
+
+### Gezinshuisrekentool
+
+Deze tool is een onderdeel van een artikel. Op gezinshuizen die betaald wordt vanuit Jeugdzorg (een overheidsinstelling) kan bijzonder grote winst gemaakt worden. Deze getallen spreken niet tot de verbeelding. De tool is een manier om zelf aan de slag te gaan met hoe de winst gemaakt wordt. In de afbeelding hieronder is de tool in een artikel te zien. Dit artikel is niet het artikel waar de tool in zal eindigen maar geeft een beeld van hoe die op een pagina al staan (in context). Daaronder staat de gezinshuisrekentool los afgebeeld.
+
+![Gezinshuisrekentool - in context](<../.gitbook/assets/Jeugdzorg gezinshuis in context- v2 (2).png>)
+
+![Gezinshuisrekentool - los](<../.gitbook/assets/Gezinshuisrekentool v2 (1).png>)
+
+Door de bovenste schuif heen en weer te bewegen kan het bedrag dat wordt ingelegd bepaald worden. Met de schuif daaronder kan bepaald worden hoeveel kamers het huis krijgt. Verder kan je aangeven na hoeveel jaar je je investering terug wil verdienen. Dit resulteert in een bedrag wat met soort gelijke investeringen is verdiend. Om dit bedrag tot de verbeelding te laten spreken staat er een vergelijking bij met de verdienste van in dit geval een jaarsalaris van een beroep.
+
+### Onderbouwing
+
+De oplossingen zijn allen een ander antwoord op de design challenge.&#x20;
+
+**Hoe kan de website van Follow the Money worden aangevuld met webpagina's en componenten op webpagina's zodat de thema's van FTM meer worden begrepen door een publiek van 20-45 jaar?**
+
+De drie oplossingen zijn heel verschillend maar helpen met het anders communiceren van informatie waardoor het begrijpelijker wordt voor de gebruiker. Uit het onderzoek kwam naar voren dat een combinatie van verschillende mediavormen het effectiefst is. Echter moet het type media wel bij de content passen. Iedere oplossing heeft een andere vorm die meer dimensie geeft aan een thema binnen FTM (deskresearch). Verder hebben alle oplossingen een aantrekkelijke vormgeving om de gebruiker aan te spreken (deskresearch). Tevens zijn de oplossingen opgebouwd in stukjes met een strakke structuur zodat ze goed scanbaar zijn en de gebruikers zelf heen leestempo kunnen bepalen (gebruikersinterviews).
+
+### Dossierintro
+
+De dossierintro vult het gat wanneer de gebruikers angst ondervinden om een nieuw onderwerp te bekijken (participant observation; customerjourney). Met de intro kunnen ze eerst op een heldere manier het onderwerp begrijpen voordat ze op de pagina van alle artikelen terecht komen. Het menu aan de linkerkant van de pagina maakt helderder waar de gebruiker is in de tekst, het maakt de tekst nog scanbaarder (interviews). Daarnaast is de pagina ruim opgezet om hem scanbaar te maken. Hoewel de content van de pagina is geschreven door de redacteurs van FTM, is de opbouw voortgekomen uit een proces om het dossier samen te vatten op een heldere manier. Met eveneens als doel om de begrijpelijkheid te vergroten. Deze pagina en structuur zouden eventueel hergebruik kunnen worden als intro voor andere dossiers.
+
+### China op bezoek bij jou
+
+De quiz is een andere manier om met dezelfde content om te gaan. In plaats van hem alleen inactief tot je te nemen, nodigt hij uit om om je heen te kijken. De quiz leidt ertoe om de evalueren hoever de invloed van China in jou leven rijkt. Door op een actievere manier met content te interacteren krijgt de gebruiker meer begrip (deskresearch).&#x20;
+
+### Gezinshuisrekentool
+
+De gebruikers gaven aan dat ze sommige teksten lang en taai vonden (participant observation). Deze tool breekt hier doorheen. Het is een luchtige onderbraking. Verder helpt de tool met het begrijpbaar maken van weinig zeggende getallen. Door de interactie kan je beter begrijpen wat het effect is. Daarnaast lokt het interactieve element uit om er mee te gaan spelen en bijvoorbeeld de maximale en minimale waardes te onderzoeken. Dit helpt eveneens mee met het begrip.
+
+## Eerste testronde
+
+De drie concepten zijn getest bij de eerste testronde. Bij deze tests lag de focus op de begrijpelijkheid van alle onderdelen. Daarnaast kwamen uit het onderzoek en designproces nog enkele vragen voort. De opzet van het onderzoek is terug te vinden in het testplan.
+
+### Resultaten
+
+De drie testproducten zijn gezamenlijk in een flow gezet om te testen. Hieronder is een afbeelding van de opzet van de flow.&#x20;
+
+![Flow voor eerste gebruikerstestt](<../.gitbook/assets/Schermafbeelding 2021-09-19 om 17.21.51.png>)
+
+Uit de tests kwamen veel kleine en grotere punten naar voren. Over het algemeen sprak de vormgeving aan en werd die als passend bij huidige website ervaren. Met de uitkomst van de gebruikerstests zijn verschillend iteraties gemaakt op de drie concepten. In de design rationale is alleen de laatste versie te zien.
+
+## Van drie producten naar een blauwdruk
+
+Zoals boven beschreven is zijn de drie losse producten allemaal een antwoord op de hoofdvraag.&#x20;
+
+**Hoe kan de website van Follow the Money worden aangevuld met webpagina's en componenten op webpagina's zodat de thema's van FTM meer worden begrepen door een publiek van 20-45 jaar?**
+
+Door middel van een gebruikerstest wordt bepaald welk product het meest aansluit op de hoofdvraag. Het product dat gekozen zal worden draagt het meeste bij aan de begrijpelijkheid van de content van de website en is relevant doordat het de doelgroep aanspreekt en ze het ook willen gebruiken. Vanuit de huidige high-fi van dit product zal een blauwdruk worden gemaakt zodat dit product op meerder plekken op de website van FTM gebruikt kan worden. De blauwdruk is een handleiding hoe het product met de zelfde relevantie op andere pagina's met andere thema's dezelfde doelen kan bereiken.
+
+### De gebruikerstest
+
+De gebruikerstest wordt gedaan door de drie producten te testen met de doelgroep. Na het testen worden verschillende vragen gesteld. Deze hebben betrekking op het begrijpelijk maken van de content van FTM, hoe aantrekkelijk het product is. Daarnaast worden de producten met elkaar vergeleken.&#x20;
+
+### Het resultaat
+
+De conclusie uit het gebruikersonderzoek is dat de rekentool het meest toevoegt aan de begrijpelijkheid van de website van FTM. Daarnaast werden de andere producten over het algemeen tevens als een toevoeging ervaren maar niet door iedereen. Daarom zal de rekentool worden uitgewerkt tot een blauwdruk. De rekentool werd over het vaakst genoemd als toevoeging aan de begrijpelijkheid. Mensen benoemde dat het ze aansprak dat de stof nogmaals op een andere manier herhaald werd. Daarbovenop vonden mensen de rekentool het vaakst het meest aansprekende product. Gebruikers waardeerde een kleine onderbreking van de tekst en vonden het visuele ervan heel aantrekkelijk. Tot slot werd de rekentool door iedereen genoemd als iets waar ze gebruik van zouden maken wanneer ze die online tegenkomen.  Interactie wordt door iedereen als positief ervaren. Wanneer er een mogelijkheid is om een simpele interactie uit te voeren is iedereen meteen geneigd dit te doen.
+
+## De blauwdruk
+
+### Uitleg
+
+Zoals hierboven reeds beschreven is is een blauwdruk een handleiding van een concept om het concept bij verschillende artikelen toe te kunnen voegen. Het doel van de blauwdruk is dat er meer widgets gemaakt kan worden een vormgever en een programmeur bij FTM.  Deze widgets komen overeen qua stijl en zijn allemaal relevant doordat ze dezelfde doelen bereiken. Om dit doel te bereiken worden er in de blauwdruk verschillende thema's behandeld: doel, Wanneer een widget, locatie widget, opbouw widget, stijl widget, animatie en de drie voorbeelden. Om de widget te concreet te maken zijn drie voorbeelden uitgewerkt.&#x20;
+
+![Een pagina uit de blauwdruk](<../.gitbook/assets/Blauwdruk widget\_Pagina\_04.jpg>)
+
+In deze design rationale wordt het doel van de widget herhaald en de drie voorbeelden behandeld  de overige content vinden in de blauwdruk. De hele blauwdruk is terug te vinden in het bestand: Blauwdruk widget.pdf.
+
+{% file src="../.gitbook/assets/Blauwdruk widget.pdf" %}
+
+### Het doel van de widget
+
+Doel Het doel van de widget is om een artikel van Follow the Money **begrijpelijker** te maken en **aantrekkelijker**. Daarnaast moet een widget altijd tot een **inzicht** leiden.&#x20;
+
+Om dit doel te bereiken moet de widget aansluiten op (een deel van) het onderwerp van een artikel. De widget moet een andere ingang zijn om in het onderwerp te komen. Om deze reden moet de widget op zichzelf kunnen staan. De widget maakt de stof begrijpelijker doordat hij interactief is en daardoor de gebruiker de mogelijkheid geeft om met de stof te interacteren.
+
+### De drie voorbeelden
+
+Hieronder zijn de drie voorbeelden van de widget te zien met een korte beschrijving.
+
+#### Gezinshuisinvestering
+
+![](../.gitbook/assets/Gezinshuisinvesteren.png)
+
+Met deze widget kan berekend worden hoeveel winst gemaakt kan worden met een investering via crowdfunding. De drie opties zijn echt bestaande huizen die nog lopen of al gesloten zijn. Bij de opties is de rente en de looptijd te zien van de lening. Vervolgens kan met de schuif bepaald worden hoeveel geïnvesteerd wordt.&#x20;
+
+Het resultaat geeft de uiteindelijke winst weer. Tot slot is een vergelijking te zien met andere dingen die bekostigd hadden kunnen worden vanuit de jeugdzorg in plaats van jou rendement.
+
+#### Geldcreatie
+
+![](../.gitbook/assets/Geldcreatie.png)
+
+De interactie van de widget bestaat uit vier knoppen. Met de knoppen kan ‘geld’ in de vorm van bolletjes over de balken verdeeld worden. Daarnaast is er een knop die nieuw geld gegenereerd en een knop die geld laat verdwijnen. Het is een schematische weergave van geldcreatie. Wanneer geld wordt gestort op de bank door burger komt dat bij het vermogen van de bank. Wanneer het vermogen van de bank hoger is dan 6% van zijn totaal kan hij leningen verstrekken. Deze leningen komen weer bij de bevolking die dat weer op de bank kan zetten. Zo is er een oneindige creatie van geld. Daarnaast kunnen leningen ook afgelost worden dan verdwijnt er weer geld. Ook kan er direct geld opgenomen worden dat komt direct bij de burger terecht uit het vermogen van de bank.&#x20;
+
+Het resultaat dat getoond wordt is de totale geldhoeveelheid. Verder wordt deze vergeleken met de prijs van een brood. Deze zal stijgen door inflatie wanneer de geldhoeveelheid groeit.
+
+#### Belastingconcurentie
+
+![](../.gitbook/assets/Belastingconcurentie.png)
+
+Door middel van deze widget kan bekeken worden wat het effect van belastingconcurentie is. Bij de drie keuzes kan een formaat bedrijf gekozen worden. Bij het formaat bedrijf hoort een bepaalde jaaromzet. Vervolgens kan een land aangeklikt worden. Ieder land heeft een eigen vennootschapsbelasting. Deze belasting gaat van de omzet af.&#x20;
+
+Het bedrag dat af gedragen moet worden aan de belasting van dat land is het resultaat. Daarnaast is te zien hoeveel meer of minder dan het gemiddelde er betaald moet worden aan vennootschapsbelasting.
+
+## Validatie van je product
+
+Naar aanleiding van mijn onderzoek zijn verschillende eisen naar voren gekomen. Deze eisen zijn samengebracht in het programma van eisen. Deze is hieronder weergegeven:
+
+### Eisen vanuit de opdrachtgever
+
+* [ ] De oplossing moet een nieuwe doelgroep aantrekken (FTM meeting - 2 feb)
+* [ ] De oplossing moet een variatie zijn op de stijl van FTM (FTM  - algemeen)
+* [ ] De oplossing moet betrouwbare informatie geven (FTM meeting - 2 feb)
+* [ ] De oplossing moet geen huidige abonnees afschrikken (FTM  - algemeen)
+* [ ] De oplossing moet de diepte van een dossier naar voren brengen (Redactie vergadering - 16 feb)
+* [ ] De oplossing moet een artikel begrijpelijker maken (FTM meeting - 26 augustus)
+* [ ] De oplossing moet een aanvulling zijn op de huidige dossier pagina's en artikelen (FTM meeting - 24 feb)
+* [ ] De oplossing moet de doelgroep geïnteresseerd maken in het onderwerp (FTM meeting - 24 feb)
+
+### Gebruikerseisen
+
+* [ ] De oplossing moet de doelgroep qua stijl aanspreken (Algemeen)&#x20;
+* [ ] De oplossing moet niet voelen als droge lesstof (interviews)
+* [ ] De oplossing moet de informatie overbrengen terwijl het de doelgroep vermaakt. (Enquete)
+* [ ] De oplossing moet het dossier overzichtelijker maken (Customer journey)
+* [ ] De oplossing moet de doelgroep meer vertrouwen geven in hun kennis over het onderwerp (Customer journey)
+* [ ] De oplossing moet snel scanbaar zijn (Customer journey)
+* [ ] De oplossing moet het onderwerp helder maken voor iemand zonder kennis van het onderwerp (Customer journey)
+* [ ] De oplossing moet de mogelijkheid bieden voor mensen om informatie op hun eigen tempo op te nemen (Interviews)
+* [ ] De oplossing moet in elk geval een combinatie zijn van tekst, koppen en visuele elementen (Interviews)
+* [ ] De oplossing moet de lezers extra verdieping geven waardoor ze kritisch kunnen blijven (Interviews)
+
+## Ethische verantwoording
+
+Door het beantwoorden van de design challenge wordt bijgedragen aan het platform van Follow the Money. Dit platvorm wil mensen informeren over misstanden in de maatschappij zodat er verbetering kan plaatsvinden. Daarnaast zet het mensen aan het denken en lokt het uit tot kritisch blijven van de maatschappij om je heen. Wanneer dit project bijdraagt aan het vergroten van het bereik en een beter begrip creëert bij de gebruikers, draagt het ook bij aan het doel van FTM. Daar moet bij gezegd worden dat het niet te sturend moet zijn en mensen vooral moet aanzetten tot kritischer kijken.
+
+## Toekomst visie
+
+De blauwdruk kan in de toekomst blijvend gebruikt worden bij artikelen van FTM. Wanneer een artikel lang is en veel kennis vereist kan deze vorm van interactie adem bieden.  Daarnaast kan het concept mee evalueren met FTM. Zo kan het qua stijl aangepast worden als de achterliggende doelen nog maar behaald worden.&#x20;
+
+Deze blauwdruk zie ik als een kleine stap richting die aansluit bij de steeds veranderde journalistieke uittingen om ons heen. Waarbij altijd gezocht zal worden naar toevoeging van meerdere mediavormen om een verhaal het best over te brengen. Interactie zal daarbij  een steeds prominentere rol gaan spelen. Deze kleine interactieve toevoeging is een stap richting het hybride verhaal.
+
